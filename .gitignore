@@ -1,0 +1,7 @@
+Arquivos e Pastas que serão ignoradas ao subir no Git, que não irão subir para meu repositório online.
+
+uso *.
+uso /imagens
+
+...
+
